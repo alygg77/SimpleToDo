@@ -1,10 +1,3 @@
-//
-//  To_DoApp.swift
-//  To-Do
-//
-//  Created by Vladimir on 6/23/23.
-//
-
 import SwiftUI
 
 @main
